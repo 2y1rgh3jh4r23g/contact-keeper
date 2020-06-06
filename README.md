@@ -1,2 +1,3 @@
-# contact-keeper
+# Contact Keeper
+
 Contact manager app
